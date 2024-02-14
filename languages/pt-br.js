@@ -11,9 +11,9 @@
         },
         abbreviations: {
             thousand: 'mil',
-            million: 'milhões',
-            billion: 'b',
-            trillion: 't'
+            million: 'mi',
+            billion: 'bi',
+            trillion: 'tri'
         },
         ordinal: function (number) {
             return 'º';
